@@ -18,9 +18,9 @@
 			<div class="col-md-6" align="right" >
 			<h4 style="margin-top:35px;">
 			<ul style="list-style:none;margin-bottom:0px;">
-			<li style="display:inline;">HOME </li>
+			<li style="display:inline;"><a href="index.php">HOME </a></li>
 			<li style="display:inline;"><a href="about.php">ABOUT</a></li>
-			<li style="display:inline;">TSHIRTS </li>
+			<li style="display:inline;"><a href="tshirts.php">TSHIRTS </a></li>
 			<li style="display:inline;">CONTACT </li>
 			</ul>
 			</h4>

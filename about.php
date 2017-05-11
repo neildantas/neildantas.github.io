@@ -4,7 +4,6 @@
 <h3>About</h3>
 </div>
 <div class="col-md-8">
-<p>
 ...<br/>
 I was manufactured<br/>
 by injection moulding technique<br/>
@@ -91,7 +90,7 @@ so im so haPPy. satisfied / complete & graduaLLy geTTing there>>><br/>
 I have No limits...I feel i have just one life. I was not responsible for my Birth nor my day of death.<br/>
 But what i have in betwEEn is mine & as long as i have it. I'm goNNa extract every bit ouTTa it.<br/>
 & give back / leave egs. as weLL.<br/>
-</p>
+
 </div>
 
 <div class="col-md-4">
